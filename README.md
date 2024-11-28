@@ -17,7 +17,7 @@ The following steps are based on https://jekyllrb.com/tutorials/using-jekyll-wit
 Clone the repository and change into the directory. For example:
 
 ```bash
-$ git clone git@github.com:blythe-hpc/sulis-hpc.github.io.git
+$ git clone https://github.com/blythe-hpc/blythe-hpc.github.io.git
 Cloning into 'blythe-hpc.github.io'...
 remote: Enumerating objects: 35, done.
 remote: Counting objects: 100% (35/35), done.
