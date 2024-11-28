@@ -4,7 +4,7 @@ This is the website of the Blythe HPC Facility documentation, it is built using 
 
 ## Contributing to the Site
 
-Please with raise an issue or fork this site and submit a pull request if you would like to contribute to this site.
+Please raise an issue or fork this site and submit a pull request if you would like to contribute to this site.
 
 ## Editing the Site Locally
 
