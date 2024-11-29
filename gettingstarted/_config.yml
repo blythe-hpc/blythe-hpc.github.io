@@ -21,9 +21,9 @@
 title: Blythe HPC on github.io
 email: blythe@warwick.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Sulis is a tier 2 HPC platform focussed on high throughput and
-  ensemble computing and is managed by the HPC Midlands+ consortium 
-  of universities. This website provides the documentation for using 
+  Blythe is a  HPC platform focussed on high throughput and
+  ensemble computing and is managed by the University of Warwick.
+  This website provides the documentation for using 
   the service.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blythe-hpc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
