@@ -9,14 +9,9 @@ has_children: true
 
 <p>This site contains the user documentation for Blythe.</p>
 
-<!--
 <h3>Contents</h3>
 
 <ul>
-
 <li><a href="https://blythe-hpc.github.io/gettingstarted/">Getting Started</a>
 <ul>
 
-</ul>
-
--->
