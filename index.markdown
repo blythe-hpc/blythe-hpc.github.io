@@ -14,7 +14,7 @@ has_children: true
 
 <ul>
 
-<li><a href="https://sulis-hpc.github.io/gettingstarted/">Getting Started</a>
+<li><a href="https://blythe-hpc.github.io/gettingstarted/">Getting Started</a>
 <ul>
 
 </ul>
