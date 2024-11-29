@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blythe HPC on github.io
+title: Blythe 
 email: blythe@warwick.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Blythe is a  HPC platform focussed on high throughput and
@@ -38,10 +38,10 @@ remote_theme: pmarsceill/just-the-docs
 
 # Theme Settings
 # See https://pmarsceill.github.io/just-the-docs/
-color_scheme: blue
+#color_scheme: blue
 aux_links:
-        "Blythe : A  HPC Platform for Scientific Computing at Warwick":
-                - "https://blythe.ac.uk"
+        "HPC Platform for Scientific Computing at Warwick":
+                - "https://warwick.ac.uk/research/rtp/sc/"
 
 aux_links_new_tab: true
 
